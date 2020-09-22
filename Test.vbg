@@ -1,0 +1,5 @@
+VBGROUP 5.0
+Project=smLabel3d\smLabel3d.vbp
+StartupProject=Test.vbp
+Project=smCombo\smCombo.vbp
+Project=smProgress\smProgress.vbp
